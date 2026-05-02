@@ -1,4 +1,4 @@
-# Smart Expense Tracker
+# FinTrack
 
 A lightweight React + Vite app for tracking personal expenses, budgets, and reports.
 
